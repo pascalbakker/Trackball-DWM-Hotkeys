@@ -4,8 +4,11 @@ Adds some movement gestures for ELECOM Deft Pro Trackball
 
 ## New Hotkeys 
 BTN_TASK + Right movement => moves to right screen
+
 BTN_TASK + Left movement => moves to left screen
+
 BTN_TASK + Up movement => Moves window to next tag
+
 BTN_TASK + Down movement => Moves window to previous tag
 
 Adjust horizontal and vertical thresholds for how fast it should activate
