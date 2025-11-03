@@ -1,0 +1,11 @@
+[package]
+name = "hotkeys"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+evdev = { git = "https://github.com/emberian/evdev" }
+uinput = "0.1.3"
+
+[profile.release]
+lto = true
